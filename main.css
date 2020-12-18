@@ -8,6 +8,8 @@ html{
     background-image: url(101.jpg) ;
 background-size: 500pt;
 background-repeat: no-repeat;
+    background: url(101.jpg) center center no-repeat fixed;
+    background-size: cover;
 }
 #foto {
 width: 600px;
