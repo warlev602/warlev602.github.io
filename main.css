@@ -2,7 +2,7 @@
     color: green;
 }
 p {
-    color: brown;
+    color: rgb(15, 15, 15);
 }
 html{
     background: url(101.jpg) center center no-repeat fixed;
