@@ -1,0 +1,14 @@
+.info {
+    color: green;
+}
+p {
+    color: brown;
+}
+html{
+    background-image: url(101.jpg) ;
+background-size: 500pt;
+background-repeat: no-repeat;
+}
+#foto {
+width: 600px;
+}
