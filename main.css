@@ -5,14 +5,18 @@ footer p {
     color: rgb(173, 255, 47);
 }
 body {
-    background-image: url(101.jpg);
+    background-color: gray;
 }
-.aside-con {
+.aside {
     float: left;
     margin: 10px;
     padding: 10px;
     bottom: unset;
+    background-color: burlywood;
 }
 #spis {
-    float: left;
+    float: left;  
+}
+.main-content {
+    background-image: url(101.jpg);
 }
