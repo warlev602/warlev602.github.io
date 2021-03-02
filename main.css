@@ -1,11 +1,15 @@
-.info {
-    color: rgb(235, 23, 23);
+header {
+    background-image: url(640.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 110%;
+    height: 150px;
 }
 footer p {
     color: rgb(173, 255, 47);
 }
 body {
-    background-color: gray;
+    background-color: rgb(102, 109, 114);
 }
 .aside {
     float: left;
