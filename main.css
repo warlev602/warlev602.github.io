@@ -1,6 +1,6 @@
 .grid {
     display: grid;
-    grid-template-columns: 1fr 7fr;
+    grid-template-columns: max-content 7fr;
     grid-template-rows: 1fr 5fr 1fr;
 }
 
