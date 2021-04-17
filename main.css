@@ -17,13 +17,21 @@
     grid-row: 3 / 4;
     background: rgb(33, 54, 2);
     place-content: stretch;
-    
 }
+    a { display: block;
+        color: rgb(230, 245, 22);
+
+    }
+    
+
 .menu {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
-    background: rgb(85, 84, 85);
+    background: rgb(22, 22, 22);
+    color: white;
 }
+    .
+
 .content {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
