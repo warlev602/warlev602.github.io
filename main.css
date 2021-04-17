@@ -1,10 +1,12 @@
 .grid {
     display: grid;
-    grid-template-columns: 20% 80%;
-    grid-template-rows: 20% 60% 20%;
+    grid-template-columns: 1fr 7fr;
+    grid-template-rows: 1fr 5fr 1fr;
 }
 
 .header {
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr;
     grid-column: 1 / 3;
     grid-row: 1 / 2;
     background: rgb(7, 150, 155);
