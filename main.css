@@ -30,9 +30,9 @@
     grid-row: 2 / 3;
     background: rgb(22, 22, 22);
     color: white;
+    grid-template-columns: minmax(max-content);
 }
-    .
-
+    
 .content {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
