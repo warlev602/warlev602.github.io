@@ -31,6 +31,7 @@
     background: rgb(22, 22, 22);
     color: white;
     grid-template-columns: minmax(max-content);
+    grid-template-rows: minmax(max-content);
 }
     
 .content {
